@@ -1,5 +1,5 @@
 <!-- ================== HERO / HEADER ================== -->
-<h1 align="center">Hey 👋, I'm Jai Surya (Jai Surya RM)</h1>
+<h1 align="center">Hey 👋, I'm Jai Surya <h1>
 <p align="center">
   <strong>Full-Stack Software Engineer</strong> — building fast, scalable web apps with Node.js, React & modern infra.  
   <br/>
